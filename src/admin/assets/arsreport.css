@@ -1,0 +1,12 @@
+/**
+ * @version		    $Id: assets/arsreport.css 2012-08-29 15:28:00Z zanardi $
+ * @package		    GiBi ArsReport
+ * @author		    GiBiLogic
+ * @authorUrl	    http://www.gibilogic.com 
+ * @authorEmail   info@gibilogic.com
+ * @copyright	    Copyright (C) 2011-2012 GiBiLogic. All rights reserved.
+ * @license		    GNU/GPL v2 or later
+ */
+
+.pagetitle { width: auto !important;height: auto !important;background-position: 0 0 !important }
+.node a {width: auto !important}
